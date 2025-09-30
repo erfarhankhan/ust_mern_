@@ -1,0 +1,9 @@
+.art{
+    background-color: lightcoral;
+    width: 300px;
+    height: 300px;
+}
+.art img{
+    width: 200px;
+    height: 200px;
+}
